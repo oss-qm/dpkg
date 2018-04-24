@@ -14,6 +14,7 @@ Build-Depends:
  debhelper (>= 9),
  dh-autoreconf,
  pkg-config,
+ perl (>= 5.20),
 # Needed for ITS support.
  gettext (>= 0.19.7),
 # Needed for --porefs.
